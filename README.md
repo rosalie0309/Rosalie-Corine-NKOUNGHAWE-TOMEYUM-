@@ -71,7 +71,7 @@ Application de paiement sécurisée avec authentification multifactorielle.
 👉 https://github.com/rosalie0309/SecurPayApp
 
 🔹 **Visualisation**  
-Reconnaissance faciale en temps réel (projet de fin d’études).  
+Reconnaissance faciale en temps réel (projet de fin d'études).  
 👉 https://github.com/rosalie0309/bont_id
 
 
@@ -79,7 +79,7 @@ Reconnaissance faciale en temps réel (projet de fin d’études).
 
 ## 🎯 Objectif actuel
 
-Je suis actuellement à la recherche d’un **stage de fin d’études de Master 2** en **data science / intelligence artificielle**,  
+Je suis actuellement à la recherche d’un **stage de fin d’études de Master 2** en **data science / intelligence artificielle**, **data analyst** ou même **data engineer**
 **en entreprise ou en laboratoire de recherche**, dans la continuité de mon projet professionnel visant à **poursuivre en doctorat tout en développant une expertise appliquée**.
 
 ---
@@ -91,4 +91,4 @@ Je suis actuellement à la recherche d’un **stage de fin d’études de Master
 - 💻 GitHub : https://github.com/rosalie0309  
 
 ---
-⭐ *N’hésitez pas à explorer mes projets ou à me contacter pour échanger !*
+⭐ *N'hésitez pas à explorer mes projets ou à me contacter pour échanger !*
