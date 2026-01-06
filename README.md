@@ -1,7 +1,9 @@
 # 👋 Bonjour, je suis Rosalie Corine NKOUNGHAWE TOMEYUM
 
 🎓 Étudiante en **double Master 2 Informatique**. L'un en spécilité Exploration Informatique Données et Décisionnel (EID2) et l'autre en Science des Données à l'université de Fès au Maroc (à distance) 
+
 📍 Université Sorbonne Paris Nord (Institut Galilée – EID2) & Université de Fès  
+
 🔍 À la recherche d'un **stage de fin d'études (6 mois) à partir de mars 2026**
 
 ---
