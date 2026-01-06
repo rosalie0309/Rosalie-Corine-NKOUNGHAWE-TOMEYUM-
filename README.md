@@ -70,9 +70,11 @@ Système de reconnaissance faciale avec API REST et transfert learning (VGG16).
 Application de paiement sécurisée avec authentification multifactorielle.  
 👉 https://github.com/rosalie0309/SecurPayApp
 
-🔹 **Visualisation**  
-Reconnaissance faciale en temps réel (projet de fin d'études).  
-👉 https://github.com/rosalie0309/bont_id
+🔹 **Visualisation des données** : data analyst  
+Projet individuel d'entrepôt de données (avec talend) et d'analyse de données avec PowerBI 
+👉 https://github.com/rosalie0309/Visualisation-Power-BI
+Projet individuel de visualisation de données et de machine learning avec SAS : calcul du retour sur investissement et visualisation sur excel 
+👉 https://github.com/rosalie0309/Projet_visualisation
 
 
 ---
